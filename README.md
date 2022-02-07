@@ -86,7 +86,7 @@ $ expo start
 
 # License
 
-This project is under MIT license . [See it](https://github.com/saymon-araujo/gofinances/blob/main/LICENSE) for more information.
+This project is under MIT license . [See it](https://github.com/saymon-araujo/plant-manager/blob/main/LICENSE) for more information.
 
 ---
 
