@@ -6,7 +6,7 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "eject": "expo eject",
-    "server": "json-server src/services/server.json -w -d 750 --host 10.0.0.110 -p 3333"
+    "server": "json-server src/services/server.json -w -d 750 --host 10.0.0.119 -p 3333"
   },
   "dependencies": {
     "@expo-google-fonts/jost": "^0.1.0",
